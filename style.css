@@ -73,7 +73,7 @@ a:hover,
 }
 
 .hero {
-  background-image: url('images/home-background.jpg'); 
+  background-image: url('home-background.jpg'); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -94,7 +94,7 @@ a:hover,
 }
 
 body {
-  background-image: url('images/product-background.jpg'); 
+  background-image: url('product-background.jpg'); 
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
